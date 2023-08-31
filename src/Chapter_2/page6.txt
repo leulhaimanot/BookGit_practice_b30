@@ -3,3 +3,5 @@ man got a job
 had a wife
 
 then had a kid
+
+editor: java is cool
